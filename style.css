@@ -1,10 +1,37 @@
-h1{
-    color: blueviolet;
-    font-size: 45px;
+
+.heading{
+    color: green;
 }
 p{
-    color: red;
+    color: white;
 }
 body{
-    background-color: aqua;
+    background-color: #22396a;
 }
+h1{
+    color: green;
+    font-weight: bolder;
+    
+  
+}
+#unique{
+    color: white;
+}
+a{
+    color: red;
+    
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.cef{
+    text-align: center;
+}
+
+
